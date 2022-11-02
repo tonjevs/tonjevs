@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tonje a student at UiO
 - 👀 I’m interested in hardware and coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and HTML
 - 📫 How to reach me tonjevs@icloud.com
 
 <!---
