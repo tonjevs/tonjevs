@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tonje a student at UiO
-- 👀 I’m interested in hardware and coding
-- 🌱 I’m currently learning Java and HTML
-- 📫 How to reach me tonjevs@icloud.com
+- Hi, I’m Tonje Viddal Sandanger, a student at UiO
+- I’m interested in hardware and coding
+- I’m currently learning Java, Python and HTML
+- You can reach me tonjevs@icloud.com
 
 <!---
 tonjevs/tonjevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
