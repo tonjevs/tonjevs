@@ -1,5 +1,5 @@
 - Hi, I’m Tonje Viddal Sandanger, a student at UiO
-- I’m interested in hardware and coding
+- I’m interested in programming and robotics
 - I’m currently learning Java, Python and HTML
 - You can reach me tonjevs@icloud.com
 
